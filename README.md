@@ -31,7 +31,3 @@ Among the tested models, XGBoost showed the most balanced performance and was se
 - Feature engineering
 - Hyperparameter tuning with Optuna
 - Threshold optimization
-
-## Final Result
-
-After hyperparameter tuning and threshold optimization, the final model achieved a CV score of 0.8299.
